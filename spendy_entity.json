@@ -1,0 +1,140 @@
+{
+	"user": {
+		"0E6nDo0DabOEPraah2xPgfCVgvS2": {
+			"phone_number": "0123456789",
+			"first_name": "tuan",
+			"last_name": "hoang",
+			"avatar_url": "images.google.com",
+			"currency_id": 1,
+			"biometric_auth": false,
+			"is_notification": true,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+		},
+		"0IYUQeshbzU2f8yv8GMgHTw5ZEu1": {
+			"phone_number": "0123456789",
+			"first_name": "tuan",
+			"last_name": "hoang",
+			"avatar_url": "images.google.com",
+			"currency_id": 1,
+			"biometric_auth": false,
+			"is_notification": true,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+		}
+	},
+	"goal": {
+		"1sR0f8mq9AZTpytQjVAj": {
+			"name": "Buy House",
+			"amount": 1000,
+			"currency_id": 1,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+			"conplete_at": 90234070257,
+			"is_achieve": true
+		},
+		"3LPFAliszXURzAhDk6d9": {
+			"name": "Buy House",
+			"amount": 1000,
+			"currency_id": 1,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+			"conplete_at": 90234070257,
+			"is_complete": true
+		}
+	},
+	"userGoal": {
+		"JqD5JX0RUDTXsu7Ok3R": {
+			"user": "0E6nDo0DabOEPraah2xPgfCVgvS2",
+			"goal": "1sR0f8mq9AZTpytQjVAj",
+			"category": "1F6E5xc6Ogx5bukRCCnZ"
+		},
+		"0OHUzxZNXEufAKtqd4jr": {
+			"user": "0IYUQeshbzU2f8yv8GMgHTw5ZEu1",
+			"goal": "3LPFAliszXURzAhDk6d9",
+			"category": "1F6E5xc6Ogx5bukRCCnZ"
+		},
+	},
+	"transaction": {
+		"0aBggjWnpurJrTLj4Lhu": {
+			"spend": 120000,
+			"note": "Nothing to note",
+			"currency_id": 1,
+			"images_url": "google.com",
+			"spend_time": 1923879143,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+			"is_personal": true
+		},
+		"0j4Idyt41Ci9nGWwN4Ka": {
+			"spend": 120000,
+			"note": "Nothing to note",
+			"currency_id": 1,
+			"images_url": "google.com",
+			"spend_time": 1923879143,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+			"is_personal": false
+		}
+	},
+	"participant": {
+		"0cgT3CYKQ6eDLYkqKJ01": {
+			"name": "hoang tuan",
+			"amount": 100000,
+			"is_edit": true,
+			"is_paid": false,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+		},
+		"0n6FRzMCsaigOkq3hlS6": {
+			"name": "hoang tuan",
+			"amount": 100000,
+			"isEdit": true,
+			"isPaid": false,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+		}
+	},
+	"category": {
+		"1AoRE47AilzWujfN2jiV": {
+			"name": "travel",
+			"images_url": "images.google.com",
+			"type": "transaction"
+		},
+		"1F6E5xc6Ogx5bukRCCnZ": {
+			"name": "beauty",
+			"images_url": "images.google.com",
+			"type": "goal"
+		}
+	},
+	"expense": {
+		"0uqDMuVNJnQyEbOY7Qwc": {
+			"user": "0E6nDo0DabOEPraah2xPgfCVgvS2",
+			"transaction": "0aBggjWnpurJrTLj4Lhu",
+			"who_paid": ["0cgT3CYKQ6eDLYkqKJ01"],
+			"for_who": ["0cgT3CYKQ6eDLYkqKJ01"],
+			"group": 0,
+			"category": "1AoRE47AilzWujfN2jiV",
+			"create_at": 1923879143,
+			"last_update": 1923879143
+		},
+		"0uqDMuVNJnQyEbOY7Qwc": {
+			"user": "0E6nDo0DabOEPraah2xPgfCVgvS2",
+			"transaction": "0aBggjWnpurJrTLj4Lhu",
+			"participant": "0n6FRzMCsaigOkq3hlS6",
+			"group": 0,
+			"category": "1AoRE47AilzWujfN2jiV",
+			"create_at": 1923879143,
+			"last_update": 1923879143
+		}
+	},
+	"notification": {
+		"0uqDMuVNJnQyEbOY7Qwc": {
+			"content": "Welcome to Spendy app",
+			"is_read": true,
+			"create_at": 1923879143,
+			"last_update": 9873945345,
+			"user": "0E6nDo0DabOEPraah2xPgfCVgvS2",
+		}
+	}
+}

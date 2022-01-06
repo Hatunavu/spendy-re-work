@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none;stroke:#3a385a;stroke-linecap:round;stroke-width:2px}.cls-1{stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="Group_654" transform="translate(-2411.135 -1919.221)">
+        <path id="Path_168" d="M2412.135 1944.221v5.445h5.445" class="cls-1" transform="translate(0 -11.445)"/>
+        <path id="Path_169" d="M0 0v5.445h5.445" class="cls-1" transform="rotate(90 248.68 2168.901)"/>
+        <path id="Path_170" d="M0 0v5.445h5.445" class="cls-1" transform="rotate(-180 1215.068 962.833)"/>
+        <path id="Path_171" d="M0 0v5.445h5.445" class="cls-1" transform="rotate(-90 2181.456 -243.235)"/>
+        <path id="Path_172" d="M2420.894 1929v2.214" class="cls-2" transform="translate(-4.36 -4.37)"/>
+        <path id="Path_173" d="M2420.894 1929v2.214" class="cls-2" transform="translate(4.679 -4.37)"/>
+        <path id="Path_174" d="M2422.143 1945.221a7.52 7.52 0 0 0 7.75 0" class="cls-2" transform="translate(-4.982 -11.441)"/>
+        <path id="Path_176" d="M2434.692 1932.744s.567 3.113-1.548 3.787" class="cls-2" transform="translate(-13.086 -6.234)"/>
+    </g>
+</svg>

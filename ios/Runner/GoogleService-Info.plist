@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>137124462612-5htgfgruvr3hufdi5oill27u8jsib3si.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.137124462612-5htgfgruvr3hufdi5oill27u8jsib3si</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>137124462612-78ubp7c1f5cqf5s8c8aq6fa0h3gcbb3f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDyeFYu86_v7UOIhGErECq6WzyEe_v3V7k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>137124462612</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.acaziasoft.spendy</string>
+	<key>PROJECT_ID</key>
+	<string>spendy-money-tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spendy-money-tracker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:137124462612:ios:033ac64d2765115a822701</string>
+	<key>DATABASE_URL</key>
+	<string>https://spendy-money-tracker.firebaseio.com</string>
+</dict>
+</plist>

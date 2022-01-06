@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-1{stroke:#3a385a;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}.cls-2{fill:#353356;stroke:#353356}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_652" transform="translate(-34 -186)">
+        <g id="Group_651" transform="translate(-2377.135 -1733.221)">
+            <path id="Path_168" d="M2412.135 1944.221v5.445h5.445" class="cls-1" transform="translate(0 -11.445)"/>
+            <path id="Path_169" d="M0 0v5.445h5.445" class="cls-1" transform="rotate(90 248.68 2168.901)"/>
+            <path id="Path_170" d="M0 0v5.445h5.445" class="cls-1" transform="rotate(-180 1215.068 962.833)"/>
+            <path id="Path_171" d="M0 0v5.445h5.445" class="cls-1" transform="rotate(-90 2181.456 -243.235)"/>
+        </g>
+        <g id="Group_266" transform="translate(38.397 189.5)">
+            <g id="Group_263" transform="translate(.103)">
+                <g id="Ellipse_70" class="cls-2">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+            <g id="Group_646" transform="translate(4.315)">
+                <g id="Ellipse_70-2" class="cls-2" transform="translate(-.212)">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+            <g id="Group_649" transform="translate(8.527)">
+                <g id="Ellipse_70-3" class="cls-2" transform="translate(-.425)">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+            <g id="Group_264" transform="translate(.103 5.055)">
+                <g id="Ellipse_71" class="cls-2" transform="translate(0 -.055)">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+            <g id="Group_645" transform="translate(4.315 5.055)">
+                <g id="Ellipse_71-2" class="cls-2" transform="translate(-.212 -.055)">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+            <g id="Group_648" transform="translate(8.527 5.055)">
+                <g id="Ellipse_71-3" class="cls-2" transform="translate(-.425 -.055)">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+            <g id="Group_265" transform="translate(.103 10.109)">
+                <g id="Ellipse_72" class="cls-2" transform="translate(0 -.109)">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+            <g id="Group_647" transform="translate(4.315 10.109)">
+                <g id="Ellipse_72-2" class="cls-2" transform="translate(-.212 -.109)">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+            <g id="Group_650" transform="translate(8.527 10.109)">
+                <g id="Ellipse_72-3" class="cls-2" transform="translate(-.425 -.109)">
+                    <circle cx="1.5" cy="1.5" r="1.5" class="cls-3"/>
+                    <circle cx="1.5" cy="1.5" r="1" class="cls-4"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

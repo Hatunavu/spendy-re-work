@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+
+## auto format code
+flutter format lib && git add .

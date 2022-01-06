@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+
+## check coding conventions
+flutter analyze
+if [ $? -ne 0 ]; then
+  exit 1
+fi

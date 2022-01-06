@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "137124462612",
+    "firebase_url": "https://spendy-money-tracker.firebaseio.com",
+    "project_id": "spendy-money-tracker",
+    "storage_bucket": "spendy-money-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137124462612:android:207bc632291ac48e822701",
+        "android_client_info": {
+          "package_name": "com.acaziasoft.spendy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137124462612-jk58cfk8ie0sspdkerfe8ji6f6o800s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acaziasoft.spendy",
+            "certificate_hash": "b47494805f28aafde49ac1733d9538433e548c59"
+          }
+        },
+        {
+          "client_id": "137124462612-jltuja3rrnbctbgp65rmkblo34f74prp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acaziasoft.spendy",
+            "certificate_hash": "92ac24c00da890f48cd4e5a2f2fdb61d864f86fc"
+          }
+        },
+        {
+          "client_id": "137124462612-m4ho0osfpphppgu8d7i798p8p2hlbe6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acaziasoft.spendy",
+            "certificate_hash": "1ce9fedf9e84ebac7754d135c5e643301fcf2b5d"
+          }
+        },
+        {
+          "client_id": "137124462612-vbnmig2qde554dag9n8e3mh9t4e6ktrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acaziasoft.spendy",
+            "certificate_hash": "b09f249d839f48492108dfe7c9024b89d6efbb76"
+          }
+        },
+        {
+          "client_id": "137124462612-u1e73e7gvs42tvm4cbk185pum4aa8q13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIg2_tkdVJPS7mMfnlVHCoKAU0H7PUgFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137124462612-u1e73e7gvs42tvm4cbk185pum4aa8q13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137124462612-5htgfgruvr3hufdi5oill27u8jsib3si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acaziasoft.spendy",
+                "app_store_id": "1506769608"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
